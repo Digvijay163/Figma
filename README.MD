@@ -23,7 +23,7 @@ Feedback and contributions are welcome! If you have suggestions, bug reports, or
 Fingma Link>>
 <a href='https://www.figma.com/file/S4lhg3W0F9jAdtFBHjUdvF/GYM-WEBSITE?type=design&node-id=0-1&mode=design' target='_blank'>Figma Design</a>
 
-Screenshot >>
+Screenshot >> Attached.
 
 
 
