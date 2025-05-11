@@ -14,7 +14,7 @@ Integration with booking and scheduling system
 
 Technologies Used:
 
-Figma, Wire framing, CSS, HTML.
+Figma, Wire framing, CSS, HTML
 
 Feedback and Contributions:
 
